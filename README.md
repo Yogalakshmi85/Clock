@@ -35,26 +35,19 @@ The **Clock Interface** project is a sleek and customizable digital clock applic
 2. A Java IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans) or a text editor with a terminal (e.g., VS Code).
 
 ---
-
-### Installation  
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/yourusername/ClockInterface.git
-   cd ClockInterface
-2. **Compile and run**
-   javac clock/ClockInterface.java
-   java clock.ClockInterface
+**Compile and run**
+   - javac clock/ClockInterface.java
+   - java clock.ClockInterface
 
 ## 🖼️ UI Highlights
 Element	Description	Appearance
-Time Display -->Shows the current time in HH:MM:SS	
-Day Display	-->Displays the day of the week	
-Date Display -->Displays the full date	
+- Time Display -->Shows the current time in HH:MM:SS	
+- Day Display	-->Displays the day of the week	
+- Date Display -->Displays the full date	
 
 ## 🛠️ Built With
-Java Swing: For the graphical user interface.
-AWT and Calendar API: To handle date and time functionality.
+- Java Swing: For the graphical user interface.
+- AWT and Calendar API: To handle date and time functionality.
 
 ## 🙌 Acknowledgments
 Inspired by the beauty of real-world digital clocks.
