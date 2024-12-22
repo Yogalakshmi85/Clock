@@ -12,7 +12,6 @@ The **Clock Interface** project is a sleek and customizable digital clock applic
 
 ## 📸 Preview  
 
-![Clock Interface Preview](./assets/clock-preview.png)  
 ![Screenshot 2024-12-22 151445](https://github.com/user-attachments/assets/52a1b9f6-789d-4b8d-bd8d-371d75336277)
 
 ---
